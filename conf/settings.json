@@ -1,0 +1,16 @@
+{
+    "vim.leader": "<space>",
+    //使用系统粘贴板
+    "vim.useSystemClipboard": true,
+    //开启 easymotion
+    "vim.easymotion": true,
+    //相对显示代码行数
+    "editor.lineNumbers": "relative",
+    //修复光标经过折叠代码时自动展开的 bug
+    "vim.foldfix": true,
+    //映射空格键为 easymotion Start of word 指令快捷键
+    "vim.normalModeKeyBindingsNonRecursive": [{
+        "before": [" "],
+        "after": ["leader", "leader", "leader", "b", "d", "w"]
+    }]
+}
