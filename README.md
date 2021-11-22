@@ -2,7 +2,7 @@
 
 Design doc is a way of communication to make sure that the whole team are well aligned on one particular component design.
 
-##Style Guide
+## Style Guide
 >Style guide includes word choices, tone, language, grammar and more. To avoid re-invent the wheel, we introduce you a list of editorial materials to learn from:
 
 * Google Developer Documentation Style Guide
@@ -10,37 +10,39 @@ Design doc is a way of communication to make sure that the whole team are well a
 * Apple Style Guide
 * The Chicago Manual of Style
 
-##Before Writing
+## Before Writing
 >Think through your proposal clearly:
 
-Why is this project/feature important?
-Why is the proposed solution better than others?
-What is the cost of the proposed solution?
-What are the external dependencies?
-It is common that you might feel lost when drafting your masterpiece, and when you get similar feelings, discuss with others. Discussion helps you to jump out of the box, when you describe and explain your ideas, you get a chance to review them from a different view of point.
+1. Why is this project/feature important?
+2. Why is the proposed solution better than others?
+3. What is the cost of the proposed solution?
+4. What are the external dependencies?
+>It is common that you might feel lost when drafting your masterpiece, and when you get similar feelings, discuss with others. Discussion helps you to jump out of the box, when you describe and explain your ideas, you get a chance to review them from a different view of point.
 
-Design Document Standard
-Perception non-infra and Offboard Standard
-Context
-Goals and Non-Goals
-Existing Solution
-Proposal
-Training Data Collection
-Metric and Benchmark
-Required Resources
-Open Questions
-Risk Analysis
-Action Items
-Perception Infra and Onboard Standard
-Context
-Goals and Non-Goals
-Existing Solution
-Proposal
-Testability, Monitoring and Alerting
-Required Resources
-Open Questions
-Action Items
-Break Down
+## Design Document Standard
+## Perception non-infra and Offboard Standard
+- Context
+- Goals and Non-Goals
+- Existing Solution
+- Proposal
+- Training Data Collection
+- Metric and Benchmark
+- Required Resources
+- Open Questions
+- Risk Analysis
+- Action Items
+
+## Perception Infra and Onboard Standard
+1. Context
+2. Goals and Non-Goals
+3. Existing Solution
+4. Proposal
+5. Testability, Monitoring and Alerting
+6. Required Resources
+7. Open Questions
+8. Action Items
+
+### Break Down
 Context
 Context is a description of the problem at hand,
 
