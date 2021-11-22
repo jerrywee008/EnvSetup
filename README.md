@@ -2,15 +2,16 @@
 
 Design doc is a way of communication to make sure that the whole team are well aligned on one particular component design.
 
-Style Guide
-Style guide includes word choices, tone, language, grammar and more. To avoid re-invent the wheel, we introduce you a list of editorial materials to learn from:
+##Style Guide
+>Style guide includes word choices, tone, language, grammar and more. To avoid re-invent the wheel, we introduce you a list of editorial materials to learn from:
 
-Google Developer Documentation Style Guide
-Microsoft Style Guide
-Apple Style Guide
-The Chicago Manual of Style
-Before Writing
-Think through your proposal clearly:
+* Google Developer Documentation Style Guide
+* Microsoft Style Guide
+* Apple Style Guide
+* The Chicago Manual of Style
+
+##Before Writing
+>Think through your proposal clearly:
 
 Why is this project/feature important?
 Why is the proposed solution better than others?
